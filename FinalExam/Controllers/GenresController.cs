@@ -1,4 +1,12 @@
-﻿using System;
+﻿/***
+ * Author: Irin Avery
+ * Student Number: 200260949 
+ * Date	Modified: Aug 18 2016
+ * Short Version History: Removed Create, Edit, Delete and Details View
+ * Description: A Genre controller that directs over to the list of all the genres
+ */
+
+using System;
 using System.Collections.Generic;
 using System.Data;
 using System.Data.Entity;

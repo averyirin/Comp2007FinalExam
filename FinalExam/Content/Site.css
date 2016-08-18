@@ -1,4 +1,11 @@
-﻿body {
+﻿/***
+ * Author: Irin Avery
+ * Student Number: 200260949 
+ * Date	Modified: Aug 18 2016
+ * Short Version History: Scaffolded our site.css
+ * Description: Our website css to pretty our site
+ */
+body {
     padding-top: 50px;
     padding-bottom: 20px;
 }
